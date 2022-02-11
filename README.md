@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[![website](./assets/svg/web.svg)](https://wwbarton.github.io/Barton-Portfolio/)
-&nbsp;&nbsp;
+<a href=”https://www.linkedin.com/in/wwbarton/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon" | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/wwbarton/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi" | LinkedIn” width=”21px”/></a>
 
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
@@ -35,12 +35,8 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="wwbarton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?wwbarton=wwbarton&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+[![wwbarton’s github stats](https://github-readme-stats.vercel.app/api?username=wwbarton)](https://github.com/wwbarton)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwbarton&layout=compact)](https://github.com/wwbarton)
 
 [website]: https://wwbarton.github.io/Barton-Portfolio/
 [linkedin]: https://www.linkedin.com/in/wwbarton/
