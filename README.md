@@ -9,12 +9,10 @@
 
 ### Connect with me:
 
-<a href=”https://www.linkedin.com/in/wwbarton/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon" | LinkedIn” width=”21px”/></a>
-<a href=”https://www.linkedin.com/in/wwbarton/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi" | LinkedIn” width=”21px”/></a>
+<a href="https://wwbarton.github.io/Barton-Portfolio/"><img align="left" src='./assets/jpeg/Robart.jpeg' alt="web" width="21px"/></a>
+<a href="https://www.linkedin.com/in/wwbarton/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+<br/>
 
 ### Languages and Tools:
 
