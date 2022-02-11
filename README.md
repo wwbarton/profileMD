@@ -1,4 +1,4 @@
-# Barton.dev <a href="https://wwbarton.github.io/Barton-Portfolio/" target="_blank"><img align="center" src='./assets/jpeg/Robart.jpeg' alt="web" width="28px"</a>
+# Barton.dev <img align="center" src='./assets/jpeg/Robart.jpeg' alt="web" width="28px"/>
 
 ## My name is Will- I'm Developer and I am always Learning!!
 
