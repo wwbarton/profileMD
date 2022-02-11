@@ -1,4 +1,4 @@
-# Barton.dev <img align="center" src='./assets/jpeg/Robart.jpeg' alt="web" width="28px"/></a>
+# Barton.dev <a href="https://wwbarton.github.io/Barton-Portfolio/" target="_blank"><img align="center" src='./assets/jpeg/Robart.jpeg' alt="web" width="28px"</a>
 
 ## My name is Will- I'm Developer and I am always Learning!!
 
@@ -9,10 +9,12 @@
 
 ### Connect with me:
 
-<a href="https://wwbarton.github.io/Barton-Portfolio/" target="_blank"> <img align="left" src="./assets/png/web-blue.png" alt="wwbarton website" width="21px"/></a>
-<a href="https://www.linkedin.com/in/wwbarton/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="wwbarton | LinkedIn" width="21px"/></a>
-<a href="mailto:wwalt.barton@gmail.com"><img align="left" src='./assets/jpeg/old-Gmail-icon.jpg' alt="web" width="21px"/></a>
+<a href="https://wwbarton.github.io/Barton-Portfolio/" target="_blank"> <img align="left" src="./assets/png/web-blue.png" alt="wwbarton website" width="34px"/></a>
+<a href="https://www.linkedin.com/in/wwbarton/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="wwbarton | LinkedIn" width="34px"/></a>
+<a href="mailto:wwalt.barton@gmail.com"><img align="left" src='./assets/jpeg/old-Gmail-icon.jpg' alt="web" width="34px"/></a>
 <br/>
+
+---
 
 ### Languages and Tools:
 
