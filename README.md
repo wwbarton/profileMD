@@ -37,7 +37,7 @@
 
 [![wwbarton’s github stats](https://github-readme-stats.vercel.app/api?username=wwbarton&theme=cobalt2&show_icons=true)](https://github.com/wwbarton)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwbarton&layout=compact&theme=cobalt2)](https://github.com/wwbarton)
-[![wwbarton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wwbarton)](https://github.com/wwbarton)
+[![wwbarton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wwbarton)](https://github.com/wwbarton/github-readme-stats)
 
 [website]: https://wwbarton.github.io/Barton-Portfolio/
 [linkedin]: https://www.linkedin.com/in/wwbarton/
