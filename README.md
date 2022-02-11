@@ -8,7 +8,7 @@
 - Fun fact: I love to build!!
   <br/>
   ***
-  ![](https://komarev.com/ghpvc/?username=wwbarton&style=flat-square)
+  ![](https://komarev.com/ghpvc/?username=wwbarton&style=plastic)
 
 ### Connect with me:
 
