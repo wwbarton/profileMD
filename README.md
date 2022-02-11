@@ -6,7 +6,6 @@
 - I’m looking to collaborate with other content creators
 - 2022 Goals: Learn more about Back-End Development and hardware fabrication.
 - Fun fact: I love to build!!
-  ![Profile Views](http://img.shields.io/badge/Profile%20Views-208-blue)
 
 ### Connect with me:
 
@@ -37,7 +36,7 @@
 
 [![wwbarton’s github stats](https://github-readme-stats.vercel.app/api?username=wwbarton&theme=cobalt2&show_icons=true)](https://github.com/wwbarton)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwbarton&layout=compact&theme=cobalt2)](https://github.com/wwbarton)
-[![wwbarton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wwbarton)](https://github.com/wwbarton/github-readme-stats)
+[![wwbarton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wwbarton)](https://github.com/wwbarton)
 
 [website]: https://wwbarton.github.io/Barton-Portfolio/
 [linkedin]: https://www.linkedin.com/in/wwbarton/
