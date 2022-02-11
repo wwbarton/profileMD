@@ -6,6 +6,8 @@
 - I’m looking to collaborate with other content creators
 - 2022 Goals: Learn more about Back-End Development and hardware fabrication.
 - Fun fact: I love to build!!
+  <br/>
+  ![](https://komarev.com/ghpvc/?username=wwbarton&style=flat-square)
 
 ### Connect with me:
 
