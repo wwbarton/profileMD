@@ -1,10 +1,10 @@
-# Will Barton- Barton.dev 👋
+# Barton.dev 👋
 
-## I'm Developer and I am always Learning!!
+## My name is Will and I'm Developer and I am always Learning!!
 
 - I’m currently learning everything
 - I’m looking to collaborate with other content creators
-- 2022 Goals: Learn more about Back-End Development
+- 2022 Goals: Learn more about Back-End Development and hardware fabrication.
 - Fun fact: I love to build!!
 
 ### Connect with me:
