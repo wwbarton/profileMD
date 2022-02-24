@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-<a href="https://wwbarton.github.io/barton-dev/" target="_blank"> <img align="left" src="./assets/png/web-blue.png" alt="wwbarton website" width="34px"/></a>
+<a href="https://barton-dev.herokuapp.com/" target="_blank"> <img align="left" src="./assets/png/web-blue.png" alt="wwbarton website" width="34px"/></a>
 <a href="https://www.linkedin.com/in/wwbarton/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="wwbarton | LinkedIn" width="34px"/></a>
 <a href="mailto:wwalt.barton@gmail.com"><img align="left" src='./assets/png/old-Gmail-icon.png' alt="web" width="34px"/></a>
 <br/>
